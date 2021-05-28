@@ -488,10 +488,10 @@ button {
 .subscribe__btn-1 {
     width: 250px;
     height: 70px;
-    background-color: #F53838;
+    background-color: #ffc107;
     color: #fefeff;
     border-radius: 30px;
-    box-shadow: 0px 20px 10px -10px #e26969;
+    box-shadow: rgb(222 203 31) 0px 20px 10px -10px;
 }
 
 .footer {
