@@ -491,9 +491,7 @@ button {
     background-color: #F53838;
     color: #fefeff;
     border-radius: 30px;
-    box-shadow: 0px 0px 30px 0px #e26969;
-
-
+    box-shadow: 0px 20px 10px -10px #e26969;
 }
 
 .footer {
